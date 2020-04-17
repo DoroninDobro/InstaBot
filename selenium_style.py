@@ -36,7 +36,7 @@ def test_login_page(browser):
 from selenium import webdriver
 
 username = 'vovka_dobro'
-password = 'Doronin7'
+password = '***'
 
 browser = webdriver.Firefox()
 browser.implicitly_wait(5)
